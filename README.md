@@ -26,5 +26,5 @@ _Filters
 ## Modelling:
 The dataset is just a table, so i didnt any modelling.
 
-![](my project2.png)
+![](Screenshot 2023-08-12 215734.jpg)
 
