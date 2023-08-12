@@ -15,5 +15,15 @@ This is a power Bi project on Covid 19 analysis in the world called **Covid Case
 
 ## Skills and concepts demonstrated:
 
-The following Power BI features were incorporate-
-Bookmarking, DAX, page navigation, new measures, Modelling, filters
+The following Power BI features were incorporated-
+_Bookmarking
+_DAX
+_Page navigation
+_New measures
+_Modelling
+_Filters
+
+## Modelling:
+The dataset is just a table, so i didnt any modelling.
+
+![](Screenshot (25) - Copy.png)
