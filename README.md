@@ -26,4 +26,5 @@ _Filters
 ## Modelling:
 The dataset is just a table, so i didnt any modelling.
 
-![](Screenshot (25) - Copy.png)
+![](my project2.png)
+
