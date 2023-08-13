@@ -8,10 +8,10 @@ This is a power Bi project on Covid 19 analysis in the world called **Covid Case
 **_Disclaimer_**: _The dataset are gotten from kaggle just to demostrate my capabilities on Power BI._
 
 ## Problem Statement
-1. What is the top 5 countries with the highest cases?
-2. What is the top 5 countries with the highest death rate?
-3. What is the top 5 countries with the highest test?
-4. What is the top 5 countries with the highest recovered and death cases?
+1. What are the top 5 countries with the highest cases?
+2. What are the top 5 countries with the highest death rate?
+3. What are the top 5 countries with the highest test?
+4. What are the top 5 countries with the highest recovered and death cases?
 
 ## Skills and concepts demonstrated:
 
@@ -46,7 +46,7 @@ According to my analysis we can see from the images below, that the country with
 
 
 
-Why the country with the highest death rate is Peru.
+While the country with the highest death rate is Peru.
 
 ![](death_rate.jpg)
 
