@@ -48,6 +48,8 @@ According to my analysis we can see from the images below, that the country with
 
 Why the country with the highest death rate is Peru.
 
+![](death_rate.jpg)
+
 
 The country with the highest recovered and death cases is USA.
 Further analysis can be see in the images below
