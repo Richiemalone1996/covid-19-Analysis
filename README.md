@@ -37,14 +37,25 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 ## Analysis
 
 According to my analysis we can see from the images below, that the country with highest covid cases and total test is USA.
+
+![](total_cases.jpg)
+
+![](total_tests.jpg)
+
+
+
+
+
 Why the country with the highest death rate is Peru.
+
+
 The country with the highest recovered and death cases is USA.
 Further analysis can be see in the images below
 
 
 Image 1                        |     Image 2
 :-----------------------------:|:------------------------:
-![](dash_board.jpg)            |   ![](second_board.jpg)
+![](front_page.jpg)            |   ![](second_board.jpg)
 
 
 
