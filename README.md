@@ -2,7 +2,7 @@
 
 ![](3d-covid-coronavirus_17005-736.avif)
 ---
-##Introduction
+## Introduction
 
 This is a power Bi project on Covid 19 analysis in the world called **Covid Cases by Country - 2023**. The project is to analyze and derive insights to answer critical questions and issues.
 **_Disclaimer_**: _The dataset are gotten from kaggle just to demostrate my capabilities on Power BI._
@@ -26,5 +26,27 @@ _Filters
 ## Modelling:
 The dataset is just a table, so i didnt any modelling.
 
-![](340-3408251_premier-league-logo-pes-2017.png)
+![](auto_model.jpg)
 
+## Visualization
+
+The report comprises two pages
+
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/65579665-1ed7-4462-942e-1b00ad892f3e/ReportSection?experience=power-bi)
+
+## Analysis
+
+According to my analysis we can see from the images below, that the country with highest covid cases and total test is USA.
+Why the country with the highest death rate is Peru.
+The country with the highest recovered and death cases is USA.
+Further analysis can be see in the images below
+
+
+Image 1                        |     Image 2
+:-----------------------------:|:------------------------:
+![](dash_board.jpg)            |   ![](second_board.jpg)
+
+
+
+## Conclusions
+Based on the comprehensive analysis of the covid dataset, I have uncovered valuable insights into some part of the world surferring from critical impacts from the virus. These findings provide a deeper understanding of the rate at which the viruses affect individual country, regional dynamics, , and factors influencing lost of lives. The data-driven approach has allowed us to identify trends and insights.
